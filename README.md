@@ -9,15 +9,16 @@ for study autumous gui agent
 # Code
 
   - [BrowserUse](https://github.com/browser-use/browser-use)
-  - [AgentQl] (https://github.com/tinyfish-io/agentql)
-  - [OmniParser] (https://github.com/microsoft/OmniParser)
+  - [AgentQl](https://github.com/tinyfish-io/agentql)
+  - [OmniParser](https://github.com/microsoft/OmniParser)
 
 
 
 # BanchMark
- -  [Webshop] (https://arxiv.org/abs/2207.01206)
+ -  [Webshop](https://arxiv.org/abs/2207.01206)
  -  [WebArena](https://arxiv.org/abs/2307.13854)
- -  [OSWorld (NeruIPS,2024)](https://arxiv.org/abs/2404.07972)
+ -  [OSWorld(NeruIPS,2024)](https://arxiv.org/abs/2404.07972)
+ -  [Ominact](https://arxiv.org/pdf/2402.17553)
 
 # Reference
   -[Awesome-GUI-Agent](https://github.com/showlab/Awesome-GUI-Agent)
