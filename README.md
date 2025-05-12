@@ -6,12 +6,13 @@ for study autumous gui agent
  -  [AgentQ ( Stanford University ,MultiOn)](https://arxiv.org/pdf/2408.07199 )
  -  [Assist GUI (CVPR 2024)](http://openaccess.thecvf.com/content/CVPR2024/papers/Gao_AssistGUI_Task-Oriented_PC_Graphical_User_Interface_Automation_CVPR_2024_paper.pdf)
   - [VGA: Vision GUI Assistant](http://arxiv.org/pdf/2406.14056)
+
 # Code
 
   - [BrowserUse](https://github.com/browser-use/browser-use)
   - [AgentQl](https://github.com/tinyfish-io/agentql)
   - [OmniParser](https://github.com/microsoft/OmniParser)
-
+  - [showuI/ootb](https://github.com/showlab/computer_use_ootb)
 
 
 # BanchMark
