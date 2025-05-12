@@ -8,9 +8,9 @@ for study autumous gui agent
   - [VGA: Vision GUI Assistant](http://arxiv.org/pdf/2406.14056)
 # Code
 
-  - [BrowserUse] https://github.com/browser-use/browser-use
-  - [AgentQl] https://github.com/tinyfish-io/agentql
-  - [OmniParser] https://github.com/microsoft/OmniParser
+  - [BrowserUse](https://github.com/browser-use/browser-use)
+  - [AgentQl] (https://github.com/tinyfish-io/agentql)
+  - [OmniParser] (https://github.com/microsoft/OmniParser)
 
 
 
