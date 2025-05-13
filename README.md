@@ -13,6 +13,7 @@ for study autumous gui agent
   - [AgentQl](https://github.com/tinyfish-io/agentql)
   - [OmniParser](https://github.com/microsoft/OmniParser)
   - [showuI/ootb](https://github.com/showlab/computer_use_ootb)
+  - [smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)
 
 
 # BanchMark
