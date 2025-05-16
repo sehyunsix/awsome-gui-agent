@@ -14,6 +14,7 @@ for study autumous gui agent
   - [OmniParser](https://github.com/microsoft/OmniParser)
   - [showuI/ootb](https://github.com/showlab/computer_use_ootb)
   - [smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)
+  - [webshop](https://github.com/princeton-nlp/WebShop.git)
 
 
 # BanchMark
@@ -21,6 +22,7 @@ for study autumous gui agent
  -  [WebArena](https://arxiv.org/abs/2307.13854)
  -  [OSWorld(NeruIPS,2024)](https://arxiv.org/abs/2404.07972)
  -  [Ominact](https://arxiv.org/pdf/2402.17553)
+   
 
 # Reference
   -[Awesome-GUI-Agent](https://github.com/showlab/Awesome-GUI-Agent)
