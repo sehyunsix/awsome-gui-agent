@@ -15,6 +15,7 @@ for study autumous gui agent
   - [showuI/ootb](https://github.com/showlab/computer_use_ootb)
   - [smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)
   - [webshop](https://github.com/princeton-nlp/WebShop.git)
+  - [crewAI](https://github.com/crewAIInc/crewAI)
 
 
 # BanchMark
@@ -22,6 +23,7 @@ for study autumous gui agent
  -  [WebArena](https://arxiv.org/abs/2307.13854)
  -  [OSWorld(NeruIPS,2024)](https://arxiv.org/abs/2404.07972)
  -  [Ominact](https://arxiv.org/pdf/2402.17553)
+   
    
 
 # Reference
