@@ -17,6 +17,7 @@ for study autumous gui agent
   - [webshop](https://github.com/princeton-nlp/WebShop.git)
   - [crewAI](https://github.com/crewAIInc/crewAI)
   - [generalAgent](https://github.com/generalagents)
+  - [langflow](https://github.com/langflow-ai/langflow)
 
 
 # BanchMark
