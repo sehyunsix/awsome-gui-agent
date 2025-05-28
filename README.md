@@ -16,6 +16,7 @@ for study autumous gui agent
   - [smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)
   - [webshop](https://github.com/princeton-nlp/WebShop.git)
   - [crewAI](https://github.com/crewAIInc/crewAI)
+  - [generalAgent](https://github.com/generalagents)
 
 
 # BanchMark
