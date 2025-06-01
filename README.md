@@ -19,6 +19,7 @@ for study autumous gui agent
   - [generalAgent](https://github.com/generalagents)
   - [langflow](https://github.com/langflow-ai/langflow)
   - [a2a-examples](https://github.com/google-a2a/a2a-samples/tree/main/samples/python/agents/crewai)
+  - [AgentQ-code](https://github.com/sentient-engineering/agent-q/blob/main/agentq/core/agent/agentq.py)
 
 
 # BanchMark
@@ -26,6 +27,7 @@ for study autumous gui agent
  -  [WebArena](https://arxiv.org/abs/2307.13854)
  -  [OSWorld(NeruIPS,2024)](https://arxiv.org/abs/2404.07972)
  -  [Ominact](https://arxiv.org/pdf/2402.17553)
+   
    
    
 
