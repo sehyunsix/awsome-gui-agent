@@ -18,6 +18,7 @@ for study autumous gui agent
   - [crewAI](https://github.com/crewAIInc/crewAI)
   - [generalAgent](https://github.com/generalagents)
   - [langflow](https://github.com/langflow-ai/langflow)
+  - [a2a-examples](https://github.com/google-a2a/a2a-samples/tree/main/samples/python/agents/crewai)
 
 
 # BanchMark
